@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+build/
+*.log
+DerivedData/
+build/
+
+.DS_Store
+*.db
+fastform/data/cms_rules.csv
